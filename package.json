@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.13.4",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.12.1",
-    "nuxt": "^2.15.6"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@shopware-pwa/nuxt-module": "0.8.2-canary.1387",
